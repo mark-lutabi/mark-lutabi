@@ -1,4 +1,6 @@
-## Hi there 👋![jump-scare-icegif-15](https://github.com/user-attachments/assets/98c5d9ab-431c-4038-befe-a37a40671ae4)
+
+![giphy](https://github.com/user-attachments/assets/da9eadd4-2bb2-4554-ab75-d659b4c03862)
+## Hi there 👋
 
 
 
