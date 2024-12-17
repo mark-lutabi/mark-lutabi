@@ -1,4 +1,5 @@
-## Hi there 👋![Spooky+body+1](https://github.com/user-attachments/assets/99f3296f-a805-400c-9fa5-d86eb67a1ccd)
+## Hi there 👋!
+https://www.youtube.com/shorts/5gkf_3W3Jso
 
 My name is Mark Ssewava Lutabi. I am currently a student at St. Mother Teresa High School,Ottawa, Canada.
 
