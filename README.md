@@ -8,3 +8,6 @@ My name is Mark Ssewava Lutabi. I am currently a student at St. Mother Teresa Hi
 ## Operating system
 <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=white" alt="Linux"></a>
 <img src="https://img.shields.io/badge/chrome%20os-3d89fc?logo=google%20chrome&logoColor=white" alt="ChromeOS"></a>
+
+## Tools
+  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
