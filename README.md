@@ -1,11 +1,11 @@
-![giphy](https://github.com/user-attachments/assets/b1a8e9f3-4733-4cd6-a772-fab9183affa1)
+
 
 ![giphy](https://github.com/user-attachments/assets/da9eadd4-2bb2-4554-ab75-d659b4c03862)
 ## Hi there 👋
 
 
 
-My name is Mark Ssewava Lutabi. I am a 15 year old student at St. Mother Teresa  High school.
+My name is Mark Ssewava Lutabi. I am a 15 year old student at St. Mother Teresa  High school. 
 
  ## ✍ Programming Languages 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
